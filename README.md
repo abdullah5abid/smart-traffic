@@ -17,3 +17,8 @@ pip install -r requirements
 ```bash 
 python3 app.py
 ```
+
+## Results
+
+![real-time-output](static/img/photo5.jpg)
+![real-time-prediction](static/img/predict.jpg)
